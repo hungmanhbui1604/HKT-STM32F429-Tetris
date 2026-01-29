@@ -1,0 +1,21 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp:91:18:virtual void touchgfx::Application::appSwitchScreen(uint8_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp:104:18:virtual void touchgfx::Application::requestRedraw(touchgfx::Rect&)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:72:18:virtual void touchgfx::Transition::tearDown()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:80:18:virtual void touchgfx::Transition::init()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:100:18:virtual void touchgfx::Transition::setScreenContainer(touchgfx::Container&)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:424:8:touchgfx::Callback<FrontendApplication>::~Callback()	1
+../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp:14:13:FrontendApplication::~FrontendApplication()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:35:18:virtual void touchgfx::NoTransition::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:31:7:touchgfx::NoTransition::~NoTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:449:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = FrontendApplication]	2
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:459:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = FrontendApplication]	3
+../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:18:18:virtual void FrontendApplicationBase::changeToStartScreen()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:31:7:virtual touchgfx::NoTransition::~NoTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:424:8:virtual touchgfx::Callback<FrontendApplication>::~Callback()	1
+../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp:14:13:virtual FrontendApplication::~FrontendApplication()	1
+../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp:16:18:virtual void FrontendApplication::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:89:18:virtual void touchgfx::Transition::invalidate()	1
+../../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp:59:18:virtual void touchgfx::MVPApplication::handlePendingScreenTransition()	3
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/common/FrontendApplication.cpp:19:6:void FrontendApplication::gotoScreen1ScreenNoTransitionImpl()	7
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/common/FrontendApplication.cpp:7:1:FrontendApplication::FrontendApplication(Model&, FrontendHeap&)	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/common/FrontendApplication.cpp:13:6:void FrontendApplication::gotoScreen1ScreenNoTransition()	1

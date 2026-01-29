@@ -1,0 +1,47 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:147:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:703:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:26:18:virtual void Screen1ViewBase::tickEvent()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:198:6:virtual void Screen1View::tearDownScreen()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:185:1:Screen1View::~Screen1View()	3
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:185:1:virtual Screen1View::~Screen1View()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	3
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:233:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:33:5:touchgfx::Box::Box()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:89:1:Tetromino::Tetromino()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:95:6:void SendSound(uint8_t)	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:140:26:touchgfx::BoxWithBorder* Tetromino::getTile(int)	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:147:6:void Tetromino::updateTilePositions()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:102:6:void Tetromino::initialize(TetrominoType, int, int, int, TetriTileID)	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:122:6:void Tetromino::move(int, int)	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:130:6:void Tetromino::rotate()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:158:6:void Tetromino::reset()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:203:6:void Screen1View::gameOver()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:236:15:TetrominoType Screen1View::getRandomTetrominoType()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:242:13:TetriTileID Screen1View::findFreeTiles()	4
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:276:6:bool Screen1View::CheckCollision(int, int, Tetromino&)	12
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:255:6:void Screen1View::CreateNewTetromino()	4
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:306:6:bool Screen1View::MoveTetromino(int, int)	3
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:441:6:virtual void Screen1View::MoveDown()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:448:6:virtual void Screen1View::MoveLeft()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:455:6:virtual void Screen1View::MoveRight()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:324:6:void Screen1View::RotateTetromino()	3
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:462:6:virtual void Screen1View::Rotate()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:344:6:void Screen1View::Move()	10
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:401:6:void Screen1View::eraseFullRows(bool*)	8
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:367:6:virtual void Screen1View::handleTickEvent()	7
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:170:1:Screen1View::Screen1View()	4
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:219:6:void Screen1View::CreateGrid()	2
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:190:6:virtual void Screen1View::setupScreen()	1

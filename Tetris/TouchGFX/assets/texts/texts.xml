@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_KDEE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_K6VC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">High Score: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TBKI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_2NLM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_H5DI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Score: &lt;value&gt; &#10;High Score: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_4HHI" Alignment="Center" TypographyId="Medium">
+        <Translation Language="GB">Game Over</Translation>
+      </Text>
+      <Text Id="__SingleUse_F5DD" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">TETRIS</Translation>
+      </Text>
+      <Text Id="__SingleUse_573J" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_5SSK" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Down</Translation>
+      </Text>
+      <Text Id="__SingleUse_VOU5" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Left</Translation>
+      </Text>
+      <Text Id="__SingleUse_XAAA" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Rotate</Translation>
+      </Text>
+      <Text Id="__SingleUse_3919" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Right</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="arial.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Medium" Font="verdana.ttf" Size="22" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

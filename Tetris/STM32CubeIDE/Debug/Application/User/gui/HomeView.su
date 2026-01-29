@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomeView.cpp:20:6:virtual void HomeView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/home_screen/HomeView.hpp:11:13:HomeView::~HomeView()	8	static
+../../TouchGFX/gui/include/gui/home_screen/HomeView.hpp:11:13:virtual HomeView::~HomeView()	8	static
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomeView.cpp:25:6:virtual void HomeView::handleTickEvent()	24	static
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomeView.cpp:10:1:HomeView::HomeView()	8	static
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomeView.cpp:15:6:virtual void HomeView::setupScreen()	0	static

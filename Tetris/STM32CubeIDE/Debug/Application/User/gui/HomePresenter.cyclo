@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/home_screen/HomePresenter.hpp:30:13:HomePresenter::~HomePresenter()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomePresenter.cpp:10:6:virtual void HomePresenter::activate()	1
+../../TouchGFX/gui/include/gui/home_screen/HomePresenter.hpp:30:13:virtual HomePresenter::~HomePresenter()	1
+../../TouchGFX/gui/include/gui/home_screen/HomePresenter.hpp:30:13:virtual void* HomePresenter::_ZThn4_N13HomePresenterD1Ev()	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomePresenter.cpp:4:1:HomePresenter::HomePresenter(HomeView&)	1
+C:/Users/hungmb/STM32CubeIDE/workspace_1.19.0/Tetris.zip_expanded/Tetris/TouchGFX/gui/src/home_screen/HomePresenter.cpp:20:6:void HomePresenter::gotoGame()	1
