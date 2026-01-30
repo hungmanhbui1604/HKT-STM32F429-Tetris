@@ -131,7 +131,7 @@
 
 ---
 
-## 4. Danh sách thành viên 
+## 4. Thành viên nhóm HKT
+- **Bùi Mạnh Hưng** - Hàn mạch, cấu hình phần cứng, phát triển âm thanh cho game. 
+- **Phùng Công Hiếu**: Hàn mạch, thiết kế giao diện, phát triển logic game. 
 - **Lưu Thịnh Khang** - Thiết kế kiến trúc, phát triển logic game.
-- **Bùi Mạnh Hưng** - Lắp đặt thiết bị, phát triển phần cứng, chức năng âm thanh. 
-- **Phùng Công Hiếu**: Thiết kế giao diện, phát triển logic game. 
