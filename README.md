@@ -132,7 +132,6 @@
 ---
 
 ## 4. Danh sách thành viên 
-- **Họ tên —  Đóng góp**: 
 - **Lưu Thịnh Khang** - Thiết kế kiến trúc, phát triển logic game.
 - **Bùi Mạnh Hưng** - Lắp đặt thiết bị, phát triển phần cứng, chức năng âm thanh. 
 - **Phùng Công Hiếu**: Thiết kế giao diện, phát triển logic game. 
