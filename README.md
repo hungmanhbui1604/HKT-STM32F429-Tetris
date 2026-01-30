@@ -93,6 +93,7 @@
 - **TIM3, TIM4 Clock**: APB1 Timer Clock (90 MHz sau prescaler)
 - **FMC Clock**: HCLK (180 MHz)
 
+---
 
 ## 3. Thiết kế phần mềm 
 ### Kiến trúc tổng quan
@@ -127,19 +128,11 @@
 
 - Giao tiếp chính bằng queues: myQueue01Handle (game/input) và audioQueueHandle (âm thanh).
 - Input → driver → TouchGFX tạo event → GUI_Task xử lý hoặc đẩy message vào myQueue01Handle.
+
 ---
 
-## 4. Chạy dự án
-- STM32CubeIDE (có sẵn project trong `STM32CubeIDE/`)
-
-- Mở với STM32CubeIDE: import `STM32CubeIDE/STM32F429I‑DISCO Debug.launch` hoặc mở `.ioc` và generate code hoặc import project vào STM32CubeIDE.  
-
-## 5. Danh sách thành viên 
+## 4. Danh sách thành viên 
 - **Họ tên —  Đóng góp**: 
 - **Lưu Thịnh Khang** - Thiết kế kiến trúc, phát triển logic game.
 - **Bùi Mạnh Hưng** - Lắp đặt thiết bị, phát triển phần cứng, chức năng âm thanh. 
-- **Phùng Công Hiếu**: Thiết kế giao diện, phát triển logic game.
-
----
-
- 
+- **Phùng Công Hiếu**: Thiết kế giao diện, phát triển logic game. 
