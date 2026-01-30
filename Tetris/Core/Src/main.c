@@ -810,7 +810,6 @@ void Play_SFX_Tone(uint32_t frequency, uint32_t duration_ms)
     if (frequency > 0) {
         uint32_t arr = 1000000 / frequency;
         __HAL_TIM_SET_AUTORELOAD(&htim4, arr - 1);
-        // Lưu ý: Dùng TIM_CHANNEL_3
         __HAL_TIM_SET_COMPARE(&htim4, TIM_CHANNEL_3, arr / 2);
         HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_3);
     }
@@ -1225,7 +1224,6 @@ void StartDefaultTask(void *argument)
 
       uint8_t data = 0;
 
-      // Logic quét nút (Giữ nguyên)
       if (HAL_GPIO_ReadPin(GPIOG, GPIO_PIN_3) == GPIO_PIN_RESET) { // Left
           if (currentTime - lastButtonTime > MOVE_DELAY) {
               data = 'L'; lastButtonTime = currentTime;
